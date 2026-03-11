@@ -6,56 +6,64 @@
             "author": "Franklin W. Dixon",
             "year": 1927,
             "series": "The Hardy Boys",
-            "order": 1
+            "order": 1,
+            "description": "Frank and Joe investigate a daring robbery at the Applegate mansion and must find hidden loot before the wrong person is blamed."
         },
         {
             "title": "The House on the Cliff",
             "author": "Franklin W. Dixon",
             "year": 1927,
             "series": "The Hardy Boys",
-            "order": 2
+            "order": 2,
+            "description": "The brothers uncover a dangerous smuggling ring operating out of a mysterious house perched on a treacherous cliff."
         },
         {
             "title": "The Secret of the Old Mill",
             "author": "Franklin W. Dixon",
             "year": 1927,
             "series": "The Hardy Boys",
-            "order": 3
+            "order": 3,
+            "description": "Frank and Joe discover a counterfeiting operation cleverly concealed inside an abandoned mill on the edge of town."
         },
         {
             "title": "The Missing Chums",
             "author": "Franklin W. Dixon",
             "year": 1928,
             "series": "The Hardy Boys",
-            "order": 4
+            "order": 4,
+            "description": "When two of their close friends vanish without a trace, the Hardy boys race against time to track them down."
         },
         {
             "title": "Hunting for Hidden Gold",
             "author": "Franklin W. Dixon",
             "year": 1928,
             "series": "The Hardy Boys",
-            "order": 5
+            "order": 5,
+            "description": "The brothers travel deep into the Montana wilderness to recover stolen gold stashed by a notorious gang of outlaws."
         },
         {
             "title": "The Shore Road Mystery",
             "author": "Franklin W. Dixon",
             "year": 1928,
             "series": "The Hardy Boys",
-            "order": 6
+            "order": 6,
+            "description": "A string of car thefts along Shore Road pulls Frank and Joe into a perilous criminal conspiracy."
         },
         {
             "title": "The Secret of the Caves",
             "author": "Franklin W. Dixon",
             "year": 1929,
             "series": "The Hardy Boys",
-            "order": 7
+            "order": 7,
+            "description": "Mysterious disappearances near a network of coastal caves lead the Hardy boys to a startling underground discovery."
         },
         {
             "title": "The Mystery of Cabin Island",
             "author": "Franklin W. Dixon",
             "year": 1929,
             "series": "The Hardy Boys",
-            "order": 8
+            "order": 8,
+            "description": "Stranded on a snowbound island, Frank and Joe must solve a baffling mystery before the bitter cold traps them for good."
         }
     ]
 }
