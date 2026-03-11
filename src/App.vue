@@ -1,8 +1,6 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
 import { onMounted } from 'vue'
 import { store } from './store.js'
-import { on } from '@primeuix/themes/aura/floatlabel';
 
 onMounted(() => {
   store.fetchData();
@@ -10,11 +8,7 @@ onMounted(() => {
 </script>
 
 <template>
-  <nav>
-    <button><RouterLink to="/">Home</RouterLink></button>
-    <button><RouterLink to="/about">About</RouterLink></button>
-    <button><RouterLink to="/hello">Test new route</RouterLink></button>
-  </nav>
+ 
   <RouterView />
 </template>
 

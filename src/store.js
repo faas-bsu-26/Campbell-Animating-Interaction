@@ -8,6 +8,8 @@ export const store = reactive({
       const response = await fetch('data.json');
       var loadedData = await response.json();
       this.books = loadedData.books;
+      this.overview = loadedData.overview;
+      this.books.order = loadedData.books.order;
     } catch (error) {
       console.error('Error fetching data:', error);
     }

@@ -1,33 +1,61 @@
 {
-    "overview": "Locked tomb series by Tamsyn Muir",
+    "overview": "The Hardy Boys original series by Franklin W. Dixon",
     "books": [
         {
-            "title": "Gideon the Ninth",
-            "author": "Tamsyn Muir",
-            "year": 2019,
-            "series": "The Locked Tomb",
+            "title": "The Tower Treasure",
+            "author": "Franklin W. Dixon",
+            "year": 1927,
+            "series": "The Hardy Boys",
             "order": 1
         },
         {
-            "title": "Harrow the Ninth",
-            "author": "Tamsyn Muir",
-            "year": 2020,
-            "series": "The Locked Tomb",
+            "title": "The House on the Cliff",
+            "author": "Franklin W. Dixon",
+            "year": 1927,
+            "series": "The Hardy Boys",
             "order": 2
         },
         {
-            "title": "Nona the Ninth",
-            "author": "Tamsyn Muir",
-            "year": 2022,
-            "series": "The Locked Tomb",
+            "title": "The Secret of the Old Mill",
+            "author": "Franklin W. Dixon",
+            "year": 1927,
+            "series": "The Hardy Boys",
             "order": 3
         },
         {
-            "title": "Not out the Ninth",
-            "author": "Tamsyn Muir",
-            "year": 2030,
-            "series": "The Locked Tomb",
+            "title": "The Missing Chums",
+            "author": "Franklin W. Dixon",
+            "year": 1928,
+            "series": "The Hardy Boys",
             "order": 4
+        },
+        {
+            "title": "Hunting for Hidden Gold",
+            "author": "Franklin W. Dixon",
+            "year": 1928,
+            "series": "The Hardy Boys",
+            "order": 5
+        },
+        {
+            "title": "The Shore Road Mystery",
+            "author": "Franklin W. Dixon",
+            "year": 1928,
+            "series": "The Hardy Boys",
+            "order": 6
+        },
+        {
+            "title": "The Secret of the Caves",
+            "author": "Franklin W. Dixon",
+            "year": 1929,
+            "series": "The Hardy Boys",
+            "order": 7
+        },
+        {
+            "title": "The Mystery of Cabin Island",
+            "author": "Franklin W. Dixon",
+            "year": 1929,
+            "series": "The Hardy Boys",
+            "order": 8
         }
     ]
 }
